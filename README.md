@@ -6,7 +6,7 @@
 - 💬 I’m improving my [Salesforce](http://salesforce.com) skills
     - 😄 Here’s my [Trailblazer profile](https://trailblazer.me/id/cbarcelo)
 - 📫 You can reach me: **claudiabarcelovaldes40@gmail.com**
-- 👯 I would like to collaborate in an Etherium proyect
+- 👯 I would like to collaborate in an Ethereum project
 
  [![Clau's GitHub stats](https://github-readme-stats.vercel.app/api?username=clauBv23&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clauBv23&show_icons=true&count_private=true&theme=tokyonight&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
