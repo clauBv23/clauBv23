@@ -8,6 +8,9 @@
 - 📫 You can reach me: **claudiabarcelovaldes40@gmail.com**
 - 👯 I would like to collaborate in an Ethereum project
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=clauBv23&theme=radical&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+
  [![Clau's GitHub stats](https://github-readme-stats.vercel.app/api?username=clauBv23&show_icons=true&count_private=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clauBv23&show_icons=true&count_private=true&theme=tokyonight&layout=compact&langs_count=8&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
