@@ -2,7 +2,7 @@
 <h1 align="center">Hi there👋, I'm Clau 😄</h1>
 
 - 🔭 I’m currently working on [Swag Up](http://swagup.com)
-- 🌱 I’m currently learning [Blockchain](http://blockchain.com) Tecnology
+- 🌱 I’m learning [Blockchain](http://blockchain.com) and [Ethereum](https://ethereum.org/)  Tecnology 
 - 💬 I’m improving my [Salesforce](http://salesforce.com) skills
     - 😄 Here’s my [Trailblazer profile](https://trailblazer.me/id/cbarcelo)
 - 📫 You can reach me: **claudiabarcelovaldes40@gmail.com**
