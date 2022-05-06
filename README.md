@@ -1,12 +1,14 @@
 
 <h1 align="center">Hi there👋, I'm Clau 😄</h1>
 
-- 🔭 I’m currently working on [Swag Up](http://swagup.com)
-- 🌱 I’m learning [Blockchain](http://blockchain.com) and [Ethereum](https://ethereum.org/)  Tecnology 
-- 💬 I’m improving my [Salesforce](http://salesforce.com) skills
-    - 😄 Here’s my [Trailblazer profile](https://trailblazer.me/id/cbarcelo)
-- 📫 You can reach me: **claudiabarcelovaldes40@gmail.com**
-- 👯 I would like to collaborate in an Ethereum project
+- 🔭 I’m currently working on [Privi](https://priviprotocol.io/) as a Solidity Developer.
+- 🚀 Used to work on [Swag Up](http://swagup.com).
+- 💰 My current passion in [Blockchain](http://blockchain.com) Tecnology.
+- 💬 I’m improving my [Salesforce](http://salesforce.com) skills.
+    - 😄 Here’s my [Trailblazer profile](https://trailblazer.me/id/cbarcelo).
+- 🌱 I'm constantly learning about Computer Science.
+- 📫 You can reach me: **claudiabarcelovaldes40@gmail.com**.
+- 👯 I would like to collaborate in an Ethereum project.
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=clauBv23&theme=radical&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy) -->
 <!-- 
