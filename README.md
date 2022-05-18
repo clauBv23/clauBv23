@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Privi](https://priviprotocol.io/) as a Solidity Developer.
 - 🚀 Used to work on [Swag Up](http://swagup.com).
-- 💰 My current passion in [Blockchain](http://blockchain.com) Tecnology.
+- 💰 My current passion is [Blockchain](http://blockchain.com) Tecnology.
 - 💬 I’m improving my [Salesforce](http://salesforce.com) skills.
     - 😄 Here’s my [Trailblazer profile](https://trailblazer.me/id/cbarcelo).
 - 🌱 I'm constantly learning about Computer Science.
