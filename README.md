@@ -19,13 +19,13 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=clauBv23&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://github.com/clauBv23/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=clauBv23&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" />
 </a>
 <a href="https://github.com/clauBv23/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clauBv23&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-</a>
+</a> -->
 </p>
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=clauBv23&theme=tokyonight&hide_border=true" alt="clauBv23" />
