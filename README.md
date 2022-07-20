@@ -4,11 +4,11 @@
 - 🔭 I’m currently working on [Adhara](https://adhara.io/) as Blockchain Developer.
 - 🚀 Used to work on [Swag Up](http://swagup.com) as Salesforce Architect.
 - 💰 My current passion is [Blockchain](http://blockchain.com) Tecnology.
-- 💬 I’m an [Ethereum](https://ethereum.org/) and [Solidity](https://docs.soliditylang.org/) fan.
-- 🌱 I'm constantly learning about Computer Science.
-- 📫 You can reach me:
-    - on **claudiabarcelovaldes40@gmail.com**.
-    - or on my [Linkedin account](https://www.linkedin.com/in/claudia-barcelo23).
+- :heart_eyes: I’m an [Ethereum](https://ethereum.org/) and [Solidity](https://docs.soliditylang.org/) fan.
+- :computer: I'm constantly learning about Computer Science.
+- :speech_balloon:  You can reach me:
+    - :mailbox_with_mail: on **claudiabarcelovaldes40@gmail.com**.
+    - :vibration_mode: or on my [Linkedin account](https://www.linkedin.com/in/claudia-barcelo23).
 - 👯 I would like to collaborate in an Ethereum (Solidity) project.
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=clauBv23&theme=radical&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy) -->
