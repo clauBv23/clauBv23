@@ -59,8 +59,3 @@
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="RaAlMer's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=clauBv23&theme=react-dark&hide_border=true" /></a>
-
-<!---
-RaAlMer/RaAlMer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
