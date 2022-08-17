@@ -26,7 +26,6 @@
 <!-- ---------------------- TROPHY ---------------------- -->
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=clauBv23&theme=radical&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-
 <!-- ---------------------- STATS ---------------------- -->
 <!-- <p align="center">
 <a href="https://github.com/clauBv23/github-readme-stats">
