@@ -1,6 +1,11 @@
 
-<h1 align="center">Hi there👋, I'm Clau 😄</h1>
+<!-- ---------------------- HEADER ---------------------- -->
+<h3 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Clau 😄
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=472DB6&center=true&width=435&lines=Computer+Scientist;Blockchain+Passionate;Solidity+Developer" alt="Typing SVG"/></a></h3>
+
+
+<!-- ---------------------- INFO ---------------------- -->
 - 🔭 I’m currently working on [Adhara](https://adhara.io/) as Blockchain Developer.
 - 🚀 Used to work on [Swag Up](http://swagup.com) as Salesforce Architect.
 - 💰 My current passion is [Blockchain](http://blockchain.com) Tecnology.
@@ -9,41 +14,57 @@
 - :speech_balloon:  You can reach me:
     - :mailbox_with_mail: on **claudiabarcelovaldes40@gmail.com**.
     - :vibration_mode: or on my [Linkedin account](https://www.linkedin.com/in/claudia-barcelo23).
-- 👯 I would like to collaborate in an Ethereum (Solidity) project.
+- 👀 I would like to collaborate in an Ethereum (Solidity) project.
 
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=clauBv23&theme=radical&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy) -->
-<!-- 
+
+<!-- ---------------------- fOLLOW ---------------------- -->
 <p align="center">
- [![Clau's GitHub stats](https://github-readme-stats.vercel.app/api?username=clauBv23&show_icons=true&count_private=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clauBv23&show_icons=true&count_private=true&theme=tokyonight&layout=compact&langs_count=8&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="https://github.com/RaAlMer?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/clauBv23?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+</p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=clauBv23&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-</p> -->
 
+<!-- ---------------------- TROPHY ---------------------- -->
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=clauBv23&theme=radical&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy) -->
+
+
+<!-- ---------------------- STATS ---------------------- -->
 <!-- <p align="center">
 <a href="https://github.com/clauBv23/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=clauBv23&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" />
-</a>
-<a href="https://github.com/clauBv23/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clauBv23&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=clauBv23&theme=github-dark-blue&show_icons=true&count_private=true&hide_border=true" />
 </a> -->
+
+<!-- ---------------------- MOST USED LANGUAGES ---------------------- -->
+<!-- <a href="https://github.com/clauBv23/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clauBv23&layout=compact&langs_count=8&theme=github-dark-blue&hide_border=true" />
+</a> -->
+
+<!-- ---------------------- RESUME ---------------------- -->
 </p>
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=clauBv23&theme=tokyonight&hide_border=true" alt="clauBv23" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=clauBv23&theme=github-dark-blue&hide_border=true&date_format=j%2Fn%5B%2FY%5D" alt="clauBv23" />
 </p>
 
- 
-<!--
-**clauBv23/clauBv23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📊 Github stats
+
+<details> 
+  <summary>💻 Profile Stats</summary>
+  <br/>
+<!-- ---------------------- STATS ---------------------- -->
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="clauBv23's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=clauBv23&show_icons=true&count_private=true&theme=github_dark&hide_border=true"/></a>
+    
+<!-- ---------------------- MOST USED LANGUAGES ---------------------- -->
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="clauBv23's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clauBv23&langs_count=8&layout=compact&theme=github_dark&hide_border=true"/></a>
+  <br/>
+</details>
+
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="RaAlMer's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=clauBv23&theme=react-dark&hide_border=true" /></a>
+
+<!---
+RaAlMer/RaAlMer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
