@@ -49,6 +49,7 @@
 <details> 
   <summary>💻 Profile Stats</summary>
   <br/>
+    
 <!-- ---------------------- STATS ---------------------- -->
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="clauBv23's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=clauBv23&show_icons=true&count_private=true&theme=github_dark&hide_border=true"/></a>
     
@@ -57,6 +58,7 @@
   <br/>
 </details>
 
+<!-- ---------------------- CONTRIBUTIONS GRAPH ---------------------- -->
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="clauBv23's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=clauBv23&theme=react-dark&hide_border=true" /></a>
 
