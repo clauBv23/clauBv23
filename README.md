@@ -58,5 +58,5 @@
 </details>
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="RaAlMer's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=clauBv23&theme=react-dark&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="clauBv23's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=clauBv23&theme=react-dark&hide_border=true" /></a>
 
