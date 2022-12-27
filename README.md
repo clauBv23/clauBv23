@@ -59,5 +59,6 @@
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="clauBv23's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=clauBv23&theme=react-dark&hide_border=true" /></a> -->
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=clauBv23&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=clauBv23&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
