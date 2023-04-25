@@ -35,6 +35,8 @@
 <!-- ---------------------- MOST USED LANGUAGES ---------------------- -->
 <!-- <a href="https://github.com/clauBv23/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clauBv23&layout=compact&langs_count=8&theme=github-dark-blue&hide_border=true" />
+
+
 </a> -->
 
 <!-- ---------------------- RESUME ---------------------- -->
