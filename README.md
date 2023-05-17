@@ -5,8 +5,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=472DB6&center=true&width=435&lines=Computer+Scientist;Blockchain+Passionate;Solidity+Developer" alt="Typing SVG"/></a></h3>
 
 <!-- ---------------------- INFO ---------------------- -->
-- 🔭 I’m currently working on [Adhara](https://adhara.io/) as Blockchain Developer.
-- 🚀 Used to work on [Swag Up](http://swagup.com) as Salesforce Architect.
+- 🔭 I’m currently working as Blockchain Developer.
+- 🚀 Used to work as Salesforce Architect.
 - 💰 My current passion is [Blockchain](http://blockchain.com) Tecnology.
 - :heart_eyes: I’m an [Ethereum](https://ethereum.org/) and [Solidity](https://docs.soliditylang.org/) fan.
 - :computer: I'm constantly learning about Computer Science.
