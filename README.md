@@ -10,10 +10,11 @@
 - 💰 My current passion is [Blockchain](http://blockchain.com) Tecnology.
 - :heart_eyes: I’m an [Ethereum](https://ethereum.org/) and [Solidity](https://docs.soliditylang.org/) fan.
 - :computer: I'm constantly learning about Computer Science.
+    - Currently focused on learning [Rust](https://www.rust-lang.org/) and diving deeper in [Golang](https://go.dev/).
+- 👀 I'm looking for Blockchain projects to collaborate with.
 - :speech_balloon:  You can reach me:
     - :mailbox_with_mail: on **claudiabarcelovaldes40@gmail.com**.
     - :vibration_mode: or on my [Linkedin account](https://www.linkedin.com/in/claudia-barcelo23).
-- 👀 I would like to collaborate in an Ethereum (Solidity) project.
 
 
 <!-- ---------------------- fOLLOW ---------------------- -->
