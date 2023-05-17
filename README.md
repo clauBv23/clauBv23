@@ -15,13 +15,18 @@
 - :speech_balloon:  You can reach me:
     - :mailbox_with_mail: on **claudiabarcelovaldes40@gmail.com**.
     - :vibration_mode: or on my [Linkedin account](https://www.linkedin.com/in/claudia-barcelo23).
-
+- ![](https://komarev.com/ghpvc/?username=clauBv23&style=plastic) 
 
 <!-- ---------------------- fOLLOW ---------------------- -->
 <p align="center">
+    
   <a href="https://github.com/clauBv23?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/clauBv23?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
+
+
+<!-- ---------------------- VIEWS ---------------------- -->
+
 
 
 <!-- ---------------------- TROPHY ---------------------- -->
@@ -56,7 +61,10 @@
 <!-- ---------------------- MOST USED LANGUAGES ---------------------- -->
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="clauBv23's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clauBv23&langs_count=8&layout=compact&theme=github_dark&hide_border=true"/></a>
   <br/>
+    
+    
 </details>
+
 
 <!-- ----------------------- CONTRIBUTIONS GRAPH ---------------------- -->
 
