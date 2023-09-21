@@ -1,7 +1,7 @@
 
 <!-- ---------------------- HEADER ---------------------- -->
 <!-- <h3 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Clau -->
-<h3 align="center">Hi there :wave:, I'm Clau
+<h3 align="center">Hi there :wave: I'm Clau
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=472DB6&center=true&width=435&lines=Computer+Scientist;Blockchain+Passionate;Solidity+Developer" alt="Typing SVG"/></a></h3>
 
